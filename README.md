@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/express-original-white.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
