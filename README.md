@@ -36,8 +36,17 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/express-original-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+  <img title="Express" alt="Express" width="40" height="40"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/nextjs-original-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img title="NextJS" alt="NextJS" width="40" height="40"/>
+</picture>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
@@ -52,7 +61,11 @@ Here are some ideas to get you started:
 #### Other
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/unrealengine-original-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg">
+  <img title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>
+</picture>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
