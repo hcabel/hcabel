@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 
 # ✨ Welcome to my GitHub profile ✨
 
-#### 💬 Github is the place were I store all my personal projects, you can learn more avout them on my youtube channel.
+#### 💬 Github is the place where I save all my personal project
 
 [![My youtube channel](https://img.shields.io/badge/My_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuKL6gBO82AEBAFc5lWJQFg)
 
-## 📺 Latest YouTube Videos
- - [I made a VsCode extension that I'm using every day](https://www.youtube.com/watch?v=_usDZ6osnR4)
+### 🌱 I'm currently working on
+- A Voxel Game engine called OpenVoxel in Rust with Vulkan.
 
 ---
 ### ⚡ My stats
