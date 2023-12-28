@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 
 # ✨ Welcome to my GitHub profile ✨
 
-#### 💬 Github is the place where I save all my personal project
+#### 💬 Github is the place where I save all my personal project, you can learn about them in my repos or you can also check out my [website](https://hugocabel.com)
 
 [![My youtube channel](https://img.shields.io/badge/My_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuKL6gBO82AEBAFc5lWJQFg)
 
 ### 🌱 I'm currently working on
-- A Voxel Game engine called OpenVoxel in Rust with Vulkan.
+- A Voxel Game engine called [OpenVoxel](https://github.com/hcabel/RustOpenVoxel) in Rust with Vulkan.
 
 ---
 ### ⚡ My stats
