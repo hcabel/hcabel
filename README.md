@@ -57,18 +57,29 @@ Here are some ideas to get you started:
 <img src="./images/Cypress.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
 </p>
 
+#### Engine stack
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://rustacean.net/assets/rustacean-orig-noshadow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
+    <img title="Rust" alt="Rust" width="40" height="40"/>
+  </picture>&nbsp;
+  <img src="https://www.vulkan.org/user/themes/vulkan/images/favicon.png" title="Vulkan" **alt="Vulkan" width="40" height="40" />&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/unrealengine-original-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg">
+    <img title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>
+  </picture>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+</p>
+
 #### Other
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/unrealengine-original-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg">
-  <img title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>
-</picture>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </p>
