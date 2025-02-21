@@ -2,7 +2,9 @@
 
 #### 💬 Here you'll find all my personal project, but you better lookup my [website](https://hugocabel.com) to learn about the good ones
 
-[![My youtube channel](https://img.shields.io/badge/My_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuKL6gBO82AEBAFc5lWJQFg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcabel&layout=compact&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=hcabel&theme=ambient_gradient&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me
 
