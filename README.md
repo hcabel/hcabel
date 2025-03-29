@@ -8,11 +8,13 @@
 
 ### About me
 
-Mainly interested about low level programming, I'm a C/C++ advance programmer, and now interested to learn newer/safer language like Rust/Zig.
+Mainly interested about low level programming, I started programming in C whitch lead me to C++ and now Rust.
 I've also done my share of Web dev, but not really interest in growing this aspec of my carreer (Though time to time I like catching up on the newest techno)
 
 ### 🌱 I'm currently working on
 - Contributing to [Bevy's editor](https://github.com/bevyengine/bevy_editor_prototypes)
+- Build my own Keyboard from scratch (pcb desipn + software)
+- Building a game in Rust with Bevy
 
 ---
 ### 🛠 My tech stack
@@ -20,7 +22,7 @@ I've also done my share of Web dev, but not really interest in growing this aspe
 ![WebStack](https://skillicons.dev/icons?i=html,css,nodejs,nextjs,react,redux,typescript,javascript,express,mongodb,nginx,sass,webpack,jest,babel,cypress,sqlite)
 
 #### System stack
-![SystemStack](https://skillicons.dev/icons?i=rust,zig,c,cpp)
+![SystemStack](https://skillicons.dev/icons?i=rust,c,cpp)
 
 #### Game engine stack
 ![GameRngineStack](https://skillicons.dev/icons?i=unreal,bevy,vulkan)
