@@ -17,20 +17,15 @@ I've also done my share of Web dev, but not really interest in growing this aspe
 - Building a game in Rust with Bevy
 
 ---
-### 🛠 My tech stack
-#### Web stack
-![WebStack](https://skillicons.dev/icons?i=html,css,nodejs,nextjs,react,redux,typescript,javascript,express,mongodb,nginx,sass,webpack,jest,babel,cypress,sqlite)
-
-#### System stack
-![SystemStack](https://skillicons.dev/icons?i=rust,c,cpp)
-
+#### Favorite languagues
+![SystemStack](https://skillicons.dev/icons?i=c,cpp,cs,rust,js,ts)
+#### Web technos
+![WebStack](https://skillicons.dev/icons?i=html,css,nextjs,react,express,jest,cypress,sqlite,mongodb)
 #### Game engine stack
-![GameRngineStack](https://skillicons.dev/icons?i=unreal,bevy,vulkan)
-
-Vulkan, bespoke engine
+![GameRngineStack](https://skillicons.dev/icons?i=unreal,bevy)
+Vulkan, Raytracing
 
 ---
-
 ### 📫 Contact me:
-[![Gmail](https://img.shields.io/badge/code@hugocabel.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:code@hugocabel.com)
+[![Gmail](https://img.shields.io/badge/code@hugocabel.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:coding@hugocabel.com)
 [![Linkedin](https://img.shields.io/badge/-Hugo%20Cabel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-cabel-553701202/)
