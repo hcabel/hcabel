@@ -9,7 +9,7 @@
 ### About me
 
 Mainly interested about low level programming, I started programming in C whitch lead me to C++ and now Rust.
-I've also done my share of Web dev, but not really interest in growing this aspec of my carreer (Though time to time I like catching up on the newest techno)
+I've also done my share of Web dev
 
 ### 🌱 I'm currently working on
 - Contributing to [Bevy's editor](https://github.com/bevyengine/bevy_editor_prototypes)
